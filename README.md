@@ -69,4 +69,5 @@ The interactive dashboard includes:
 ## 🔹 Conclusion
 This project demonstrates end-to-end data analysis, starting from data cleaning to business insights and dashboard creation. It highlights practical skills in SQL, Excel, and Power BI for real-world data analysis scenarios.
 
-![Uploading image.png…]()
+
+<img width="1200" height="756" alt="image" src="https://github.com/user-attachments/assets/3a380ad2-1975-4b0e-a306-bef8c5f4d5ff" />
